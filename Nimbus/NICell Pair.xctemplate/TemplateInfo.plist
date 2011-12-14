@@ -9,7 +9,7 @@
 	<key>DefaultCompletionName</key>
 	<string>MyClass</string>
 	<key>Description</key>
-	<string>A Nimbus Table View Cell Element (NSObject&lt;NICellObject&gt;) and a corresponding Table View Cell UITableViewCell&lt;NICell&gt; class, each with implementation and header files.</string>
+	<string>A Objective-C class which is a subclass of UITableViewCell and conforms to the NICell protocol; and a complementary Objective-C class which conforms to the NICellObject and encapculates the data of the cell. Each with implementation and header files.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
@@ -38,6 +38,6 @@
 	<key>SortOrder</key>
 	<string>1</string>
 	<key>Summary</key>
-	<string>An Objective-C class with a header for Cocoa</string>
+	<string>Two Objective-C classes with headers for iOS</string>
 </dict>
 </plist>
