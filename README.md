@@ -7,18 +7,14 @@ I have currently only made a template to automate the creation of custom UITable
 
 More to come, if I can think of more to make. Suggestions welcome.
 
-Installation
-------------
-
+### Installation
 1. Add the Nimbus folder to 
 
-/Users/Username/Library/Developer/Xcode/Templates/File Templates/GroupName
+    /Users/Username/Library/Developer/Xcode/Templates/File Templates/GroupName
 
 2. Done!
 
-Links
-=====
-
+### Links
 * [GitHub project page](https://github.com/jinthagerman/NIFileTemplates).
 * [Nimbus Github page](http://jverkoey.github.com/nimbus/).
 * [Nimbus Documentation](http://jverkoey.github.com/nimbus/).
